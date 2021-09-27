@@ -1,4 +1,6 @@
 # Jason
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDivyarao2021%2Fjason.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDivyarao2021%2Fjason?ref=badge_shield)
+
 
 A blazing fast JSON parser and generator in pure Elixir.
 
@@ -139,3 +141,6 @@ Jason is released under the Apache License 2.0 - see the [LICENSE](LICENSE) file
 
 Some elements of tests and benchmarks have their origins in the
 [Poison library](https://github.com/devinus/poison) and were initially licensed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDivyarao2021%2Fjason.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDivyarao2021%2Fjason?ref=badge_large)
